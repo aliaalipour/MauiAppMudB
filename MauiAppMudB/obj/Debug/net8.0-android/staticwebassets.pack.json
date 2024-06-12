@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aalipour\\source\\Workspaces\\MauiAppMudB\\MauiAppMudB\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\MauiAppMudB.styles.css",
+      "PackagePath": "staticwebassets\\MauiAppMudB.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Aalipour\\source\\Workspaces\\MauiAppMudB\\MauiAppMudB\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Aalipour\\source\\Workspaces\\MauiAppMudB\\MauiAppMudB\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aalipour\\source\\Workspaces\\MauiAppMudB\\MauiAppMudB\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aalipour\\source\\Workspaces\\MauiAppMudB\\MauiAppMudB\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Aalipour\\source\\Workspaces\\MauiAppMudB\\MauiAppMudB\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.MauiAppMudB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.MauiAppMudB.props",
+      "PackagePath": "build\\MauiAppMudB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.MauiAppMudB.props",
+      "PackagePath": "buildMultiTargeting\\MauiAppMudB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.MauiAppMudB.props",
+      "PackagePath": "buildTransitive\\MauiAppMudB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
